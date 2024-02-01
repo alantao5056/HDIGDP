@@ -18,6 +18,13 @@ MSCountry |>
 GNI = read_csv("./data/gross-national-income-per-capita-undp.csv")
 GNICountry = GNI |>
   filter(Entity=="United States" | Entity == "China" | Entity == "United Kingdom" | Entity == "Russia" | Entity == "Germany")
-MSCountry |>
+GNICountry |>
   ggplot(aes(x=Year, y=`Gross national income per capita`)) +
+  geom_line(aes(x=Year, color = Entity))
+
+LE = read_csv("./data/life-expectancy.csv")
+LECountry = LE |>
+  filter(Entity=="United States" | Entity == "China" | Entity == "United Kingdom" | Entity == "Russia" | Entity == "Germany")
+GNICountry |>
+  ggplot(aes(x=Year, y=`Period life exectancy at birth - Sex: all - Age: 0`)) +
   geom_line(aes(x=Year, color = Entity))
