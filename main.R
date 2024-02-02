@@ -25,12 +25,12 @@ full = left_join(full, hdigdp, by = c("country", "year"))
 full |> 
   drop_na() |>
   summarize(.by = country, avg_hdi = mean(`HDI`), avg_gdp = mean(`GDPPC`)) |>
-  ggplot(aes(x = avg_gdp, y = avg_hdi)) +
+  ggplot(aes(x = avg_hdi, y = avg_gdp)) +
   geom_point() +
-  geom_smooth(se = FALSE, method = "lm", formula = (y ~ log(x))) +
-  labs(title = "GDP vs HDI for Every Country",
-       x = "Average GDP",
-       y = "Average HDI")
+  geom_smooth(se = FALSE, method = "lm", formula = (y~exp(x))) +
+  labs(title = "HDI vs GDP for Every Country",
+       x = "Average HDI",
+       y = "Average GDP")
 
 # GDP in the us
 full |>

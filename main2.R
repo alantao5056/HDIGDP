@@ -1,3 +1,5 @@
+library(tidyverse)
+
 ESchooling = read_csv("./data/expected-years-of-schooling.csv")
 
 ESCountry = ESchooling |>
@@ -24,7 +26,9 @@ GNICountry |>
 
 LE = read_csv("./data/life-expectancy.csv")
 LECountry = LE |>
-  filter(Entity=="United States" | Entity == "China" | Entity == "United Kingdom" | Entity == "Russia" | Entity == "Germany")
-GNICountry |>
-  ggplot(aes(x=Year, y=`Period life exectancy at birth - Sex: all - Age: 0`)) +
-  geom_line(aes(x=Year, color = Entity))
+  filter(Entity=="United States" | Entity == "China" | Entity == "United Kingdom" | Entity == "Russia" | Entity == "Germany") |>
+  filter(Year >= 1990)
+LECountry |>
+  ggplot(aes(x=Year, y=`Period life expectancy at birth - Sex: all - Age: 0`)) +
+  geom_line(aes(x=Year, color = Entity)) +
+  labs(y="Life Expectancy")
