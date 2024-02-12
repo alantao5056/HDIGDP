@@ -1,0 +1,188 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"Subnational HDI","Log Gross National Income per capita"
+"Afghanistan","Asia/Pacific","AFG","National","AFGt","Total",0.478,7.509
+"Albania","Europe","ALB","National","ALBt","Total",0.796,9.556
+"Algeria","Africa","DZA","National","DZAt","Total",0.745,9.287
+"Andorra","Europe","AND","National","ANDt","Total",0.858,10.84
+"Angola","Africa","AGO","National","AGOt","Total",0.586,8.606
+"Antigua and Barbuda","America","ATG","National","ATGt","Total",0.788,9.729
+"Argentina urban","America","ARG","National","ARGt","Total",0.842,9.949
+"Armenia","Europe","ARM","National","ARMt","Total",0.759,9.485
+"Australia","Asia/Pacific","AUS","National","AUSt","Total",0.951,10.80
+"Austria","Europe","AUT","National","AUTt","Total",0.916,10.89
+"Azerbaijan","Europe","AZE","National","AZEt","Total",0.745,9.565
+"Bahamas","America","BHS","National","BHSt","Total",0.812,10.33
+"Bahrain","Asia/Pacific","BHR","National","BHRt","Total",0.875,10.58
+"Bangladesh","Asia/Pacific","BGD","National","BGDt","Total",0.661,8.607
+"Barbados","America","BRB","National","BRBt","Total",0.790,9.418
+"Belarus","Europe","BLR","National","BLRt","Total",0.808,9.844
+"Belgium","Europe","BEL","National","BELt","Total",0.937,10.87
+"Belize","America","BLZ","National","BLZt","Total",0.683,8.750
+"Benin","Africa","BEN","National","BENt","Total",0.525,8.134
+"Bhutan","Asia/Pacific","BTN","National","BTNt","Total",0.666,9.152
+"Bolivia","America","BOL","National","BOLt","Total",0.692,9.001
+"Bosnia and Herzegovina","Europe","BIH","National","BIHt","Total",0.780,9.632
+"Botswana","Africa","BWA","National","BWAt","Total",0.693,9.693
+"Brazil","America","BRA","National","BRAt","Total",0.754,9.573
+"Brunei Darussalam","Asia/Pacific","BRN","National","BRNt","Total",0.829,11.07
+"Bulgaria","Europe","BGR","National","BGRt","Total",0.795,10.05
+"Burkina Faso","Africa","BFA","National","BFAt","Total",0.449,7.658
+"Burundi","Africa","BDI","National","BDIt","Total",0.426,6.595
+"Cambodia","Asia/Pacific","KHM","National","KHMt","Total",0.593,8.314
+"Cameroon","Africa","CMR","National","CMRt","Total",0.576,8.194
+"Canada","America","CAN","National","CANt","Total",0.936,10.75
+"Cape Verde","Africa","CPV","National","CPVt","Total",0.662,8.737
+"Central African Republic CAR","Africa","CAF","National","CAFt","Total",0.404,6.873
+"Chad","Africa","TCD","National","TCDt","Total",0.394,7.218
+"Chili","America","CHL","National","CHLt","Total",0.855,10.11
+"China","Asia/Pacific","CHN","National","CHNt","Total",0.768,9.770
+"Colombia","America","COL","National","COLt","Total",0.752,9.574
+"Comoros","Africa","COM","National","COMt","Total",0.558,8.053
+"Congo Brazzaville","Africa","COG","National","COGt","Total",0.571,7.969
+"Congo Democratic Republic","Africa","COD","National","CODt","Total",0.479,6.981
+"Costa Rica","America","CRI","National","CRIt","Total",0.809,9.902
+"Cote d'Ivoire","Africa","CIV","National","CIVt","Total",0.550,8.560
+"Croatia","Europe","HRV","National","HRVt","Total",0.858,10.31
+"Cuba","America","CUB","National","CUBt","Total",0.764,8.972
+"Cyprus","Europe","CYP","National","CYPt","Total",0.896,10.55
+"Czech Republic","Europe","CZE","National","CZEt","Total",0.889,10.57
+"Denmark","Europe","DNK","National","DNKt","Total",0.948,11.01
+"Djibouti","Africa","DJI","National","DJIt","Total",0.509,8.522
+"Dominica","America","DMA","National","DMAt","Total",0.720,9.349
+"Dominican Republic","America","DOM","National","DOMt","Total",0.767,9.798
+"Ecuador","America","ECU","National","ECUt","Total",0.740,9.241
+"Egypt","Africa","EGY","National","EGYt","Total",0.731,9.370
+"El Salvador","America","SLV","National","SLVt","Total",0.675,9.023
+"Equatorial Guinea","Africa","GNQ","National","GNQt","Total",0.596,9.399
+"Eritrea","Africa","ERI","National","ERIt","Total",0.492,7.455
+"Estonia","Europe","EST","National","ESTt","Total",0.890,10.55
+"Eswatini","Africa","SWZ","National","SWZt","Total",0.597,8.946
+"Ethiopia","Africa","ETH","National","ETHt","Total",0.498,7.767
+"Fiji","Asia/Pacific","FJI","National","FJIt","Total",0.730,9.208
+"Finland","Europe","FIN","National","FINt","Total",0.940,10.81
+"France","Europe","FRA","National","FRAt","Total",0.903,10.74
+"Gabon","Africa","GAB","National","GABt","Total",0.706,9.501
+"Gambia","Africa","GMB","National","GMBt","Total",0.500,7.683
+"Georgia","Europe","GEO","National","GEOt","Total",0.802,9.593
+"Germany","Europe","DEU","National","DEUt","Total",0.942,10.91
+"Ghana","Africa","GHA","National","GHAt","Total",0.632,8.656
+"Greece","Europe","GRC","National","GRCt","Total",0.887,10.28
+"Grenada","America","GRD","National","GRDt","Total",0.795,9.509
+"Guatemala","America","GTM","National","GTMt","Total",0.627,9.074
+"Guinea","Africa","GIN","National","GINt","Total",0.465,7.816
+"Guinea Bissau","Africa","GNB","National","GNBt","Total",0.483,7.554
+"Guyana","America","GUY","National","GUYt","Total",0.714,10.02
+"Haiti","America","HTI","National","HTIt","Total",0.535,7.954
+"Honduras","America","HND","National","HNDt","Total",0.621,8.575
+"Hungary","Europe","HUN","National","HUNt","Total",0.846,10.40
+"Iceland","Europe","ISL","National","ISLt","Total",0.959,10.93
+"India","Asia/Pacific","IND","National","INDt","Total",0.633,8.793
+"Indonesia","Asia/Pacific","IDN","National","IDNt","Total",0.705,9.347
+"Iran","Asia/Pacific","IRN","National","IRNt","Total",0.774,9.473
+"Iraq","Asia/Pacific","IRQ","National","IRQt","Total",0.686,9.208
+"Ireland","Europe","IRL","National","IRLt","Total",0.945,11.24
+"Israel","Asia/Pacific","ISR","National","ISRt","Total",0.919,10.63
+"Italy","Europe","ITA","National","ITAt","Total",0.895,10.67
+"Jamaica","America","JAM","National","JAMt","Total",0.709,9.086
+"Japan","Asia/Pacific","JPN","National","JPNt","Total",0.925,10.65
+"Jordan","Asia/Pacific","JOR","National","JORt","Total",0.720,9.203
+"Kazakhstan","Asia/Pacific","KAZ","National","KAZt","Total",0.811,10.08
+"Kenya","Africa","KEN","National","KENt","Total",0.575,8.406
+"Kiribati","Asia/Pacific","KIR","National","KIRt","Total",0.624,8.310
+"Kosovo","Europe","XKO","National","KSVt","Total",0.762,9.259
+"Kuwait","Asia/Pacific","KWT","National","KWTt","Total",0.831,10.88
+"Kyrgyzstan","Asia/Pacific","KGZ","National","KGZt","Total",0.692,8.426
+"Lao","Asia/Pacific","LAO","National","LAOt","Total",0.607,8.949
+"Latvia","Europe","LVA","National","LVAt","Total",0.863,10.40
+"Lebanon","Asia/Pacific","LBN","National","LBNt","Total",0.706,9.162
+"Lesotho","Africa","LSO","National","LSOt","Total",0.514,7.901
+"Liberia","Africa","LBR","National","LBRt","Total",0.481,7.161
+"Libya","Africa","LBY","National","LBYt","Total",0.718,9.638
+"Liechtenstein","Europe","LIE","National","LIEt","Total",0.935,11.90
+"Lithuania","Europe","LTU","National","LTUt","Total",0.875,10.54
+"Luxembourg","Europe","LUX","National","LUXt","Total",0.930,11.35
+"Madagascar","Africa","MDG","National","MDGt","Total",0.501,7.302
+"Malawi","Africa","MWI","National","MWIt","Total",0.512,7.290
+"Malaysia","Asia/Pacific","MYS","National","MYSt","Total",0.803,10.19
+"Maldives","Asia/Pacific","MDV","National","MDVt","Total",0.747,9.645
+"Mali","Africa","MLI","National","MLIt","Total",0.428,7.665
+"Mauritania","Africa","MRT","National","MRTt","Total",0.556,8.532
+"Mauritius","Africa","MUS","National","MUSt","Total",0.802,10.00
+"Mexico","America","MEX","National","MEXt","Total",0.758,9.792
+"Micronesia (Federated States of)","Asia/Pacific","FSM","National","FSMt","Total",0.628,8.215
+"Moldova","Europe","MDA","National","MDAt","Total",0.767,9.607
+"Mongolia","Asia/Pacific","MNG","National","MNGt","Total",0.739,9.267
+"Monte Negro","Europe","MNE","National","MNEt","Total",0.832,9.945
+"Morocco","Africa","MAR","National","MARt","Total",0.683,8.896
+"Mozambique","Africa","MOZ","National","MOZt","Total",0.446,7.088
+"Myanmar","Asia/Pacific","MMR","National","MMRt","Total",0.585,8.256
+"Namibia","Africa","NAM","National","NAMt","Total",0.615,9.063
+"Nepal","Asia/Pacific","NPL","National","NPLt","Total",0.602,8.263
+"Netherlands","Europe","NLD","National","NLDt","Total",0.941,10.93
+"New Zealand","Asia/Pacific","NZL","National","NZLt","Total",0.937,10.69
+"Nicaragua","America","NIC","National","NICt","Total",0.667,8.635
+"Niger","Africa","NER","National","NERt","Total",0.400,7.123
+"Nigeria","Africa","NGA","National","NGAt","Total",0.535,8.474
+"North Macedonia","Europe","MKD","National","MKDt","Total",0.770,9.675
+"Norway","Europe","NOR","National","NORt","Total",0.961,11.08
+"Oman","Asia/Pacific","OMN","National","OMNt","Total",0.816,10.21
+"Pakistan","Asia/Pacific","PAK","National","PAKt","Total",0.544,8.439
+"Palestine","Asia/Pacific","PSE","National","PSEt","Total",0.715,8.792
+"Panama","America","PAN","National","PANt","Total",0.805,10.20
+"Papua New Guinea","Asia/Pacific","PNG","National","PNGt","Total",0.558,8.296
+"Paraguay","America","PRY","National","PRYt","Total",0.717,9.421
+"Peru","America","PER","National","PERt","Total",0.762,9.413
+"Philippines","Asia/Pacific","PHL","National","PHLt","Total",0.699,9.096
+"Poland","Europe","POL","National","POLt","Total",0.876,10.41
+"Portugal","Europe","PRT","National","PRTt","Total",0.866,10.41
+"Qatar","Asia/Pacific","QAT","National","QATt","Total",0.855,11.38
+"Romania","Europe","ROU","National","ROUt","Total",0.821,10.31
+"Russian Federation","Europe","RUS","National","RUSt","Total",0.822,10.21
+"Rwanda","Africa","RWA","National","RWAt","Total",0.534,7.701
+"Saint Kitts and Nevis","America","KNA","National","KNAt","Total",0.777,10.06
+"Saint Lucia","America","LCA","National","LCAt","Total",0.715,9.397
+"Saint Vincent and the Grenadines","America","VCT","National","VCTt","Total",0.751,9.389
+"Samoa","Asia/Pacific","WSM","National","WSMt","Total",0.707,8.577
+"Sao Tome & Principe","Africa","STP","National","STPt","Total",0.618,8.299
+"Saudi Arabia","Asia/Pacific","SAU","National","SAUt","Total",0.875,10.74
+"Senegal","Africa","SEN","National","SENt","Total",0.511,8.115
+"Serbia","Europe","SRB","National","SRBt","Total",0.802,9.859
+"Sierra Leone","Africa","SLE","National","SLEt","Total",0.477,7.391
+"Singapore","Asia/Pacific","SGP","National","SGPt","Total",0.939,11.42
+"Slovakia","Europe","SVK","National","SVKt","Total",0.848,10.33
+"Slovenia","Europe","SVN","National","SVNt","Total",0.918,10.59
+"Solomon Islands","Asia/Pacific","SLB","National","SLBt","Total",0.564,7.817
+"Somalia","Africa","SOM","National","SOMt","Total",0.361,7.206
+"South Africa","Africa","ZAF","National","ZAFt","Total",0.713,9.469
+"South Korea","Asia/Pacific","KOR","National","KORt","Total",0.925,10.70
+"South Sudan","Africa","SSD","National","SSDt","Total",0.385,6.644
+"Spain","Europe","ESP","National","ESPt","Total",0.905,10.56
+"Sri Lanka","Asia/Pacific","LKA","National","LKAt","Total",0.782,9.440
+"Sudan","Africa","SDN","National","SDNt","Total",0.508,8.182
+"Suriname","America","SUR","National","SURt","Total",0.730,9.447
+"Sweden","Europe","SWE","National","SWEt","Total",0.947,10.91
+"Switzerland","Europe","CHE","National","CHEt","Total",0.962,11.11
+"Syria","Asia/Pacific","SYR","National","SYRt","Total",0.577,8.341
+"Tajikistan","Asia/Pacific","TJK","National","TJKt","Total",0.685,8.422
+"Tanzania","Africa","TZA","National","TZAt","Total",0.549,7.888
+"Thailand","Asia/Pacific","THA","National","THAt","Total",0.800,9.743
+"Timor Leste","Asia/Pacific","TLS","National","TLSt","Total",0.607,8.403
+"Togo","Africa","TGO","National","TGOt","Total",0.539,7.681
+"Tonga","Asia/Pacific","TON","National","TONt","Total",0.745,8.828
+"Trinidad & Tobago","America","TTO","National","TTOt","Total",0.810,10.06
+"Tunisia","Africa","TUN","National","TUNt","Total",0.731,9.236
+"Turkey","Asia/Pacific","TUR","National","TURt","Total",0.838,10.34
+"Turkmenistan","Asia/Pacific","TKM","National","TKMt","Total",0.745,9.474
+"Tuvalu","Asia/Pacific","TUV","National","TUVt","Total",0.641,8.756
+"Uganda","Africa","UGA","National","UGAt","Total",0.525,7.688
+"Ukraine","Europe","UKR","National","UKRt","Total",0.773,9.492
+"United Arab Emirates","Asia/Pacific","ARE","National","AREt","Total",0.911,11.04
+"United Kingdom","Europe","GBR","National","GBRt","Total",0.929,10.72
+"United States","America","USA","National","USAt","Total",0.921,11.08
+"Uruguay","America","URY","National","URYt","Total",0.809,9.965
+"Uzbekistan","Asia/Pacific","UZB","National","UZBt","Total",0.727,8.977
+"Vanuatu","Asia/Pacific","VUT","National","VUTt","Total",0.607,8.034
+"Venezuela","America","VEN","National","VENt","Total",0.691,8.479
+"Vietnam","Asia/Pacific","VNM","National","VNMt","Total",0.703,8.970
+"Yemen","Asia/Pacific","YEM","National","YEMt","Total",0.455,7.181
+"Zambia","Africa","ZMB","National","ZMBt","Total",0.565,8.076
+"Zimbabwe","Africa","ZWE","National","ZWEt","Total",0.593,8.245
